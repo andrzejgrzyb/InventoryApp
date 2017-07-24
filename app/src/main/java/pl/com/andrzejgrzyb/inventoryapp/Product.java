@@ -36,47 +36,23 @@ public class Product {
         return price;
     }
 
-    public void setPrice(String price) {
-        this.price = price;
-    }
-
     public int getQuantity() {
         return quantity;
-    }
-
-    public void setQuantity(int quantity) {
-        this.quantity = quantity;
     }
 
     public String getSupplierName() {
         return supplierName;
     }
 
-    public void setSupplierName(String supplierName) {
-        this.supplierName = supplierName;
-    }
-
     public String getSupplierPhone() {
         return supplierPhone;
-    }
-
-    public void setSupplierPhone(String supplierPhone) {
-        this.supplierPhone = supplierPhone;
     }
 
     public String getSupplierEmail() {
         return supplierEmail;
     }
 
-    public void setSupplierEmail(String supplierEmail) {
-        this.supplierEmail = supplierEmail;
-    }
-
     public String getImage() {
         return image;
-    }
-
-    public void setImage(String image) {
-        this.image = image;
     }
 }
