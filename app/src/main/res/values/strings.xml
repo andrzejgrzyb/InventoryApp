@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="detail_activity_title_new_item">New item</string>
+    <string name="detail_activity_title_edit_item">Edit item</string>
+    <string name="buy_button">Buy</string>
+    <string name="add_product">Add product</string>
+    <string name="empty_list">No products to show</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="name_label">Name</string>
+    <string name="price_label">Price</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="supplier_name_label">Supplier name</string>
+    <string name="supplier_phone_label">Supplier phone number</string>
+    <string name="supplier_email_label">Supplier e-mail address</string>
+    <string name="image">Image</string>
+    <string name="select_image">Select</string>
+
+    <string name="unsaved_changes_dialog_text">Do you want to discard changes?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+
+    <string name="save">Save</string>
+
+    <string name="menu_order_item">Order product</string>
+    <string name="menu_delete_item">Delete product</string>
+    <string name="menu_delete_all_data">Delete all products</string>
+
+    <string name="order_message">Contact by phone or e-mail?</string>
+    <string name="phone">Phone</string>
+    <string name="email">E-mail</string>
+    <string name="email_body">Need more</string>
+
+    <string name="delete_message">Are you sure?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="missing_field">Missing field</string>
+
+    <string name="price_formatter">$%1$s</string>
+</resources>
